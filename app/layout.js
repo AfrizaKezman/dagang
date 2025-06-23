@@ -5,7 +5,7 @@ import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 
 export const metadata = {
-  title: 'JualanOnline - Sistem Jualam Modern',
+  title: 'GudangLaris - Sistem Jualam Modern',
   description: 'Aplikasi Jualan modern untuk bisnis Anda',
 }
 
